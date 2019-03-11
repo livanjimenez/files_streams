@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TestBasicFile",
+            "request": "launch",
+            "mainClass": "TestBasicFile",
+            "projectName": "files_streams_19e21872"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
             "mainClass": "Main"
